@@ -26,3 +26,7 @@ Coincidental Cohesion < Logical Cohesion < Temporal Cohesion < Procedural Cohesi
 중앙집중식 연결구조	
 * 버스(Bus) 형태의
 느슨하고 유연한 연결구조
+
+# 릴레이션 용어
+attribute = degree(갯수)
+tuple = Cardinality(갯수)
