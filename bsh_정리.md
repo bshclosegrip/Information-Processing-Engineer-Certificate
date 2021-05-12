@@ -31,7 +31,7 @@ Coincidental Cohesion < Logical Cohesion < Temporal Cohesion < Procedural Cohesi
 attribute = degree(갯수)
 tuple = Cardinality(갯수)
 
-# CMM(Capability Maturity Model)
+# CMM(Capability Maturity Model) 
 != 계획단계
 
 # 서비스 지향 아키텍처 기반 애플리케이션 
