@@ -29,7 +29,7 @@ Coincidental Cohesion < Logical Cohesion < Temporal Cohesion < Procedural Cohesi
 
 # 릴레이션 용어
 attribute = degree(갯수)<br/>
-tuple = Cardinality(갯수)
+tuple = cardinality(갯수)
 
 # CMM(Capability Maturity Model) 
 != 계획단계
