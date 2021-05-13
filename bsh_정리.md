@@ -42,3 +42,6 @@ tuple = Cardinality(갯수)
 
 # 행위적 패턴
 != prototype 패턴
+
+# 블랙박스 테스트
+!= 기초경로검사
