@@ -28,8 +28,8 @@ Coincidental Cohesion < Logical Cohesion < Temporal Cohesion < Procedural Cohesi
 느슨하고 유연한 연결구조
 
 # 릴레이션 용어
-attribute = degree(갯수)<br/>
-tuple = cardinality(갯수)
+열 attribute = degree(갯수)<br/>
+행 tuple = cardinality(갯수)
 
 # CMM(Capability Maturity Model) 
 != 계획단계
