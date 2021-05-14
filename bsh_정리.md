@@ -48,3 +48,6 @@ Coincidental Cohesion < Logical Cohesion < Temporal Cohesion < Procedural Cohesi
 
 # 반정규화
 != 빌드테이블
+
+# 정규화
+https://blog.naver.com/dlwjddns5/220621213891
